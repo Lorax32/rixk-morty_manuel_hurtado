@@ -47,6 +47,6 @@ export default {
 .location-info p {
   margin: 6px 0;
   color: #555;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 </style>
